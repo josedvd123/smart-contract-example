@@ -1,6 +1,7 @@
 # Smart Contract Example
 ## Antes de empezar
-Asegurate de tener instalado Nodejs
+Asegurate de tener instalado Nodejs:
+https://nodejs.org/en/download/
 
 Después ejecutar en la terminal:
 ```
